@@ -7,7 +7,7 @@
 #
 Name     : pypi-requests_download
 Version  : 0.1.2
-Release  : 12
+Release  : 13
 URL      : https://files.pythonhosted.org/packages/34/9d/431a25538f158a3065a76a6311f40b7908f88a4d24efdbb0ca24f83bd614/requests_download-0.1.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/34/9d/431a25538f158a3065a76a6311f40b7908f88a4d24efdbb0ca24f83bd614/requests_download-0.1.2.tar.gz
 Summary  : Download files using requests and save them to a target path
